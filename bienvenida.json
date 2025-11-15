@@ -1,15 +1,17 @@
 {
-  "elements": [
-    {
-      "type": "text",
-      "content": "¡Bienvenido al servidor!",
-      "x": 0.1,
-      "y": 0.2,
-      "width": 0.5,
-      "height": 0.2,
-      "fontSize": 0.03,
-      "name": "welcomeText"
-    }
-  ],
-  "showOnJoin": true
+  "WBUI": {
+    "showOnJoin": true,
+    "elements": [
+      {
+        "name": "welcomeText",
+        "type": "text",
+        "content": "¡Bienvenido al servidor!",
+        "x": 0.1,
+        "y": 0.2,
+        "width": 0.5,
+        "height": 0.2,
+        "fontSize": 0.03
+      }
+    ]
+  }
 }
