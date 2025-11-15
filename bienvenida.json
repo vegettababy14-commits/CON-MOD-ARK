@@ -1,7 +1,15 @@
 {
   "wbui_version": 2,
+  "cca_version": 1,
+
   "ui_type": "cca",
   "title": "Bienvenido",
+
+  "canvas": {
+    "width": 1920,
+    "height": 1080
+  },
+
   "pages": [
     {
       "name": "PaginaPrincipal",
@@ -20,5 +28,6 @@
       ]
     }
   ],
+
   "showOnJoin": true
 }
