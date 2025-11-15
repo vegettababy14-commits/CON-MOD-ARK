@@ -1,0 +1,45 @@
+{
+  "wbui_version": 2,
+  "cca_version": 1,
+  "ui_type": "cca",
+  "title": "Bienvenido",
+  "pages": [
+    {
+      "name": "PaginaPrincipal",
+      "elements": [
+        {
+          "type": "image",
+          "name": "serverLogo",
+          "url": "https://i.imgur.com/UyPu8KY.png",
+          "x": 0.8,
+          "y": 0.05,
+          "sizeX": 0.15,
+          "sizeY": 0.15
+        },
+        {
+          "type": "text",
+          "name": "welcomeText",
+          "text": "¡Bienvenido al servidor!\n\nReglas:\n1. No hacer spam\n2. Respeta a los jugadores\n3. Diviértete",
+          "x": 0.1,
+          "y": 0.2,
+          "sizeX": 0.7,
+          "sizeY": 0.5,
+          "fontSize": 0.025,
+          "alignment": "left"
+        },
+        {
+          "type": "button",
+          "name": "discordButton",
+          "text": "Únete a nuestro Discord",
+          "x": 0.1,
+          "y": 0.75,
+          "sizeX": 0.3,
+          "sizeY": 0.07,
+          "url": "https://discord.gg/ETEfBBZ6D2"
+        }
+      ]
+    }
+  ],
+  "showOnJoin": true
+}
+
