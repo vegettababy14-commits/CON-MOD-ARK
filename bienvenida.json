@@ -3,7 +3,7 @@
     {
       "type": "image",
       "name": "serverLogo",
-      "url": "https://tu-servidor.com/logo.png",
+      "url": "https://github.com/vegettababy14-commits/CON-MOD-ARK/blob/main/logo.png",
       "x": 0.8,
       "y": 0.05,
       "width": 0.15,
@@ -11,7 +11,7 @@
     },
     {
       "type": "text",
-      "content": "¡Bienvenido a nuestro servidor!\n\nReglas:\n1. No hacer spam\n2. Respetar a los jugadores\n3. Diviértete\n\nÚnete a nuestro Discord: discord.gg/tu-servidor",
+      "content": "¡Bienvenido a nuestro servidor!\n\nReglas:\n1. No hacer spam\n2. Respetar a los jugadores\n3. Diviértete\n\nÚnete a nuestro Discord: https://discord.gg/ETEfBBZ6D2",
       "x": 0.1,
       "y": 0.2,
       "width": 0.7,
@@ -21,3 +21,4 @@
   ],
   "showOnJoin": true
 }
+
