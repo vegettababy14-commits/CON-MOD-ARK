@@ -9,12 +9,13 @@
         {
           "type": "text",
           "name": "welcomeText",
-          "content": "¡Bienvenido al servidor!\n\nReglas:\n1. No hacer spam\n2. Respeta a los jugadores\n3. Diviértete",
+          "text": "¡Bienvenido al servidor!\n\nReglas:\n1. No hacer spam\n2. Respeta a los jugadores\n3. Diviértete",
           "x": 0.1,
           "y": 0.2,
-          "width": 0.7,
-          "height": 0.5,
-          "fontSize": 0.025
+          "sizeX": 0.7,
+          "sizeY": 0.5,
+          "fontSize": 0.025,
+          "alignment": "left"
         }
       ]
     }
