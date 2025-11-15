@@ -1,26 +1,15 @@
 {
   "elements": [
     {
-      "type": "image",
-      "name": "serverLogo",
-      "url": "https://imgur.com/a/UyPu8KY",
-      "x": 0.8,
-      "y": 0.05,
-      "width": 0.15,
-      "height": 0.15
-    },
-    {
       "type": "text",
-      "content": "¡Bienvenido a nuestro servidor!\n\nReglas:\n1. No hacer spam\n2. Respetar a los jugadores\n3. Diviértete\n\nÚnete a nuestro Discord: https://discord.gg/ETEfBBZ6D2",
+      "content": "¡Bienvenido al servidor!",
       "x": 0.1,
       "y": 0.2,
-      "width": 0.7,
-      "height": 0.6,
-      "fontSize": 0.025
+      "width": 0.5,
+      "height": 0.2,
+      "fontSize": 0.03
     }
   ],
   "showOnJoin": true
 }
-
-
 
