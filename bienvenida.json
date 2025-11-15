@@ -1,33 +1,29 @@
 {
   "wbui_version": 2,
   "cca_version": 1,
-
   "ui_type": "cca",
-  "title": "Bienvenido",
-
+  "title": "Test",
   "canvas": {
     "width": 1920,
     "height": 1080
   },
-
   "pages": [
     {
-      "name": "PaginaPrincipal",
+      "name": "pagina1",
       "elements": [
         {
           "type": "text",
-          "name": "welcomeText",
-          "text": "¡Bienvenido al servidor!\n\nReglas:\n1. No hacer spam\n2. Respeta a los jugadores\n3. Diviértete",
+          "name": "texto1",
+          "text": "FUNCIONANDO",
           "x": 0.1,
-          "y": 0.2,
-          "sizeX": 0.7,
-          "sizeY": 0.5,
-          "fontSize": 0.025,
-          "alignment": "left"
+          "y": 0.1,
+          "sizeX": 0.5,
+          "sizeY": 0.2,
+          "fontSize": 0.03,
+          "alignment": "center"
         }
       ]
     }
   ],
-
   "showOnJoin": true
 }
