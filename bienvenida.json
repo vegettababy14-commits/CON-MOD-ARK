@@ -3,7 +3,7 @@
     {
       "type": "image",
       "name": "serverLogo",
-      "url": "https://raw.githubusercontent.com/vegettababy14-commits/CON-MOD-ARK/main/logo.png",
+      "url": "https://imgur.com/a/UyPu8KY",
       "x": 0.8,
       "y": 0.05,
       "width": 0.15,
@@ -21,5 +21,6 @@
   ],
   "showOnJoin": true
 }
+
 
 
