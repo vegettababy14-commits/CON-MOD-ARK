@@ -1,13 +1,15 @@
 {
+  "wbui_version": 2,
+  "ui_type": "cca",
   "elements": [
     {
       "type": "text",
       "name": "welcomeText",
-      "content": "¡Bienvenido al servidor!\n\nReglas:\n1. No hacer spam\n2. Respeta a los jugadores\n3. Diviértete\n\nÚnete a nuestro Discord: https://discord.gg/ETEfBBZ6D2",
+      "content": "¡Bienvenido al servidor!\n\nReglas:\n1. No hacer spam\n2. Respeta a los jugadores\n3. Diviértete",
       "x": 0.1,
       "y": 0.2,
-      "width": 0.8,
-      "height": 0.6,
+      "width": 0.7,
+      "height": 0.5,
       "fontSize": 0.025
     }
   ],
